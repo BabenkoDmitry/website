@@ -6,8 +6,4 @@ $(document).ready(function(){
       $(".call-button").fadeOut();
      }
    });
-
- $(".call-button").mouseover(function(){
-    $(".call-button").effect("shake", {distance:4}, 500);
-   });
 });
