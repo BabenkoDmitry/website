@@ -719,7 +719,7 @@ html, body{
  opacity: 0.2;
  position: fixed;
  bottom: 50px;
- right: 45px;
+ right: 100px;
  display: none;
  text-indent: -9999px;
  background: url(icon_top.png) no-repeat;
@@ -741,7 +741,7 @@ html, body{
  opacity: 0.4;
  position: fixed;
  bottom: 50px;
- left: 30px;
+ left: 70px;
  display: none;
  text-indent: -9999px;
  background: url(call-button.png) no-repeat;
