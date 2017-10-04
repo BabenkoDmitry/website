@@ -1,6 +1,6 @@
 var callButton = document.querySelector(".call-button");
-callButton.addEventListener("click", getClientInfo);
+callButton.addEventListener("click", getClientPhoneNumber);
 
-function getClientInfo() {
+function getClientPhoneNumber() {
   prompt("Hello! Please, enter your phone number:");
 }
