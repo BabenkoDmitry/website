@@ -315,6 +315,7 @@ button{
   height: 30px;
   font-family: "Finger Paint", san-serif;
   color: #F8F8FF;
+  outline-style: none;
   font-size: 16px;
   text-align: center;
   background-color: #19232e;
